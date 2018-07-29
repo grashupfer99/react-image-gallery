@@ -1,17 +1,17 @@
 ## Flickr Image Gallery in React
 
-Create a Flickr api key inside /src folder, replace an empty string with your api key, save file as config.js
+Create a file named config.js inside /src folder, replace the empty string below with your Flickr API key
 ```
 const apiKey = '';
 export default apiKey;
 ```
 
-install all dependencies
+Install all dependencies
 ```
 npm install
 ```
 
-start
+Start the app
 ```
 npm start
 ```
